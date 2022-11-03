@@ -4,8 +4,8 @@ const pools: PoolConfig[] = [
 
 {
     pastaId: 1,
-     tokenName: 'KITTY-BNB',
-     earnToken: 'KITTY',
+     tokenName: 'BullySanta',
+     earnToken: '$BSanta',
      stakingTokenName: QuoteToken.KITTYWBNB,
      stakingTokenAddress: '0x61cCA94e696981c2Df97bC0e33E4a6583606732A',    //
      contractAddress: {
